@@ -1,0 +1,5 @@
+Login into Portal & Choose Template
+This test case specifies the steps to login to portal and choose templates to create resources.
+EXPECTED RESULTS: Login to Portal is successful
+Click on the Market -> Purchase
+EXPECTED RESULTS: Template Exists and can be selected on the Portal
